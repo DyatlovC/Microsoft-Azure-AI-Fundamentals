@@ -34,6 +34,9 @@ Reads the data from the CSV file using pandas.
 
 Defines x (ice cream sales) as the independent variable and y (temperature) as the dependent variable.
 
+![image](https://github.com/user-attachments/assets/710fe927-3b1c-47b6-ba74-209380d16689)
+
+
 Trains a linear regression model using scikit-learn.
 
 Makes temperature predictions based on new ice cream sales inputs.
@@ -42,7 +45,7 @@ Makes temperature predictions based on new ice cream sales inputs.
 
 If ice cream sales are 4 units, the predicted temperature will be displayed in the terminal with the following command:
 
-print(model.predict([[4]])[0][0])
+print(model.predict([[4]])[0][0]), change the number to your preference
 
 📜 License
 
