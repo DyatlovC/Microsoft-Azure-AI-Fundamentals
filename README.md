@@ -10,6 +10,9 @@ The project utilizes the scikit-learn library to train a linear regression model
 
 IceCreams.csv - CSV file containing training data.
 
+![image](https://github.com/user-attachments/assets/754fbaa3-8147-4d75-84d5-00eb7e035884)
+
+
 script.py - Python script that trains the model and makes predictions.
 
 📦 Dependencies
